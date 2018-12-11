@@ -1,5 +1,5 @@
 # 3D Data Map  • 3D Model
-Open 3D model files with FreeCAD
+Use FreeCAD to open `.fcstd` files and Blender to open `.blend` files.
 
 3D model output file to reproduce the "[3D Data Map installation](www.batjo.eu/cookbook/map)".
 Supporting material for Batjo's project "[Data Driven News Installations. A digital fabrication cookbook for journalists](www.batjo.eu/cookbook)".
