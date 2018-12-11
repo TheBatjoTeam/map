@@ -5,4 +5,4 @@
 
 ![render-output](/final-output.png)
 ![prototype-output1](/prototype-output1.png)
-![prototype-output2](/protoype-output2.png)
+![prototype-output2](/prototype-output2.png)
